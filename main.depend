@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1676950072 source:f:\a-c++ school\smntr\hahao\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<unistd.h>
+	<stdio.h>
+
