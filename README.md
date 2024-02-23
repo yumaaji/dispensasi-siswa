@@ -1,3 +1,6 @@
-# Selamat Datang di Repository Dispensasi Siswa
+# Aplikasi Surat Dispen Siswa
 
-Dispensasi siswa merupakan aplikasi yang dapat digunakan untuk melakukan dispen ketika jam pelajaran sekolah
+Program ini adalah aplikasi sederhana yang memungkinkan pengguna untuk membuat tampilan surat dispensasi siswa dengan mudah.
+
+## Fitur
+- Membuat tampilan surat dispensasi siswa
